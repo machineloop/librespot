@@ -82,7 +82,7 @@ impl Discovery {
             "publicKey": (public_key),
             "deviceType": (self.0.config.device_type.to_string().to_uppercase()),
             "libraryVersion": "0.1.0",
-            "accountReq": "PREMIUM",
+            "accountReq": "FREE",
             "brandDisplayName": "librespot",
             "modelDisplayName": "librespot",
         });
